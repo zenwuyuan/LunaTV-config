@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-10 19:12 CST）
+## API 状态（最近更新：2025-11-10 20:26 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：80
-- 失败 API 数量：0
+- 成功 API 数量：79
+- 失败 API 数量：1
 - 平均可用率：99.5%
 - 完美可用率（100%）：67 个
 - 高可用率（80%-99%）：13 个
@@ -211,7 +211,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🔞大地资源 | https://dadiapi.com/feifei | 28 | 0 | 100.0% | 0 |
+| ✅ | 🔞大地资源 | https://dadiapi.com/feifei | 29 | 0 | 100.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -237,8 +237,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
+| ❌ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 94 | 6 | 94.0% | 1 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 <!-- API_TABLE_END -->
 
