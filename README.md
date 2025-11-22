@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-23 01:11 CST）
+## API 状态（最近更新：2025-11-23 02:17 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：72
-- 失败 API 数量：8
+- 成功 API 数量：73
+- 失败 API 数量：7
 - 平均可用率：91.8%
 - 完美可用率（100%）：28 个
 - 高可用率（80%-99%）：46 个
@@ -191,7 +191,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬最大点播 | https://zuidazy.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
@@ -206,18 +205,19 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞-大奶子- | https://apidanaizi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞155-资源 | https://155api.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 98 | 2 | 98.0% | 1 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬天涯影视 | https://tyyszy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬无尽资源 | https://api.wujinapi.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬暴风资源 | https://bfzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 97 | 3 | 97.0% | 0 |
@@ -233,8 +233,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 75 | 25 | 75.0% | 22 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
+| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 74 | 26 | 74.0% | 23 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
