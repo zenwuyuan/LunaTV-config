@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-16 11:20 CST）
+## API 状态（最近更新：2025-12-16 12:31 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：67
 - 失败 API 数量：13
-- 平均可用率：91.6%
+- 平均可用率：91.5%
 - 完美可用率（100%）：60 个
 - 高可用率（80%-99%）：13 个
 - 中等可用率（50%-79%）：1 个
@@ -226,14 +226,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 2 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| 🚨 | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 1 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 77 | 23 | 77.0% | 23 |
+| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 97 | 3 | 97.0% | 3 |
+| 🚨 | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| 🚨 | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 2 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 76 | 24 | 76.0% | 24 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬豪华资源 | https://jjpz.hafrey.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
