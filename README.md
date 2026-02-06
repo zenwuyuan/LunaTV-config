@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-06 12:08 CST）
+## API 状态（最近更新：2026-02-06 13:47 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：71
-- 失败 API 数量：9
+- 成功 API 数量：70
+- 失败 API 数量：10
 - 平均可用率：87.0%
 - 完美可用率（100%）：29 个
 - 高可用率（80%-99%）：41 个
@@ -195,7 +195,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬天涯影视 | https://tyyszy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -212,6 +211,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬虎牙资源 | https://www.huyaapi.com/api.php/provide/vod/at/json | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞-大奶子- | https://apidanaizi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
