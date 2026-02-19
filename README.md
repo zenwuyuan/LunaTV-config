@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-20 04:24 CST）
+## API 状态（最近更新：2026-02-20 05:25 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：69
-- 失败 API 数量：11
+- 成功 API 数量：70
+- 失败 API 数量：10
 - 平均可用率：88.5%
 - 完美可用率（100%）：52 个
 - 高可用率（80%-99%）：19 个
@@ -227,11 +227,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 5 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 94 | 6 | 94.0% | 1 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
+| 🚨 | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 93 | 7 | 93.0% | 6 |
 | ✅ | 🔞-奥斯卡- | https://aosikazy.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 33 | 67 | 33.0% | 67 |
+| 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 32 | 68 | 32.0% | 68 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
