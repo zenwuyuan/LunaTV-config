@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-06 04:31 CST）
+## API 状态（最近更新：2026-03-06 05:27 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：70
