@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-08 14:34 CST）
+## API 状态（最近更新：2026-03-08 15:27 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：67
 - 失败 API 数量：13
-- 平均可用率：86.1%
+- 平均可用率：86.0%
 - 完美可用率（100%）：39 个
 - 高可用率（80%-99%）：30 个
 - 中等可用率（50%-79%）：1 个
@@ -224,9 +224,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞-奥斯卡- | https://aosikazy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🚨 | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 92 | 8 | 92.0% | 7 |
-| 🚨 | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 92 | 8 | 92.0% | 7 |
-| 🚨 | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 92 | 8 | 92.0% | 7 |
+| 🚨 | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 91 | 9 | 91.0% | 8 |
+| 🚨 | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 91 | 9 | 91.0% | 8 |
+| 🚨 | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 91 | 9 | 91.0% | 8 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 78 | 22 | 78.0% | 0 |
