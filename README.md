@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-24 09:19 CST）
+## API 状态（最近更新：2026-03-24 12:11 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：68
-- 失败 API 数量：12
+- 成功 API 数量：69
+- 失败 API 数量：11
 - 平均可用率：85.3%
 - 完美可用率（100%）：46 个
 - 高可用率（80%-99%）：23 个
@@ -213,7 +213,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬量子影视 | https://cj.lziapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞 CK-资源 | https://ckzy.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
+| ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
