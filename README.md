@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-19 19:29 CST）
+## API 状态（最近更新：2026-04-19 20:41 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：68
-- 失败 API 数量：12
+- 成功 API 数量：69
+- 失败 API 数量：11
 - 平均可用率：85.5%
 - 完美可用率（100%）：40 个
 - 高可用率（80%-99%）：29 个
@@ -220,7 +220,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬-爱奇艺- | https://iqiyizyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
+| ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
