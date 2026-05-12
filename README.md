@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-12 21:59 CST）
+## API 状态（最近更新：2026-05-13 00:19 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：68
-- 失败 API 数量：12
+- 成功 API 数量：69
+- 失败 API 数量：11
 - 平均可用率：84.2%
 - 完美可用率（100%）：44 个
 - 高可用率（80%-99%）：23 个
@@ -206,7 +206,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞白嫖资源 | https://www.kxgav.com/api/json.php | 99 | 1 | 99.0% | 0 |
