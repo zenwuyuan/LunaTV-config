@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-23 03:17 CST）
+## API 状态（最近更新：2026-08-23 04:13 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：65
@@ -222,11 +222,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 74 | 26 | 74.0% | 0 |
-| 🚨 | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
-| 🚨 | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
+| 🚨 | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 71 | 29 | 71.0% | 29 |
+| 🚨 | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 71 | 29 | 71.0% | 29 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
